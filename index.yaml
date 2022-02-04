@@ -3,6 +3,16 @@ entries:
   dummy:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2022-02-04T19:18:34.586484225Z"
+    description: Dummy helm chart for testing purpose
+    digest: 15813e927bb44f5bc8b2fa9cccab33b770e26ed3b085e8d28a40283313b7fbbd
+    name: dummy
+    type: application
+    urls:
+    - https://github.com/AlexisDucastel/test-hc/releases/download/dummy-1.0.1/dummy-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2022-02-04T19:08:14.813240664Z"
     description: Dummy helm package for testing purpose
     digest: 19f4887e3ba9830c47c4d0b196db452073b2952eaf9e70f68d2dd2047893712a
